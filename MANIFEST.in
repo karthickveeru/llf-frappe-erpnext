@@ -1,0 +1,2 @@
+include MANIFEST.in
+recursive-include llf_erpnext *.json *.js *.css *.html *.py

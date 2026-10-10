@@ -1,0 +1,10 @@
+MANIFEST.in
+setup.py
+llf_erpnext/__init__.py
+llf_erpnext/hooks.py
+llf_erpnext.egg-info/PKG-INFO
+llf_erpnext.egg-info/SOURCES.txt
+llf_erpnext.egg-info/dependency_links.txt
+llf_erpnext.egg-info/not-zip-safe
+llf_erpnext.egg-info/requires.txt
+llf_erpnext.egg-info/top_level.txt
